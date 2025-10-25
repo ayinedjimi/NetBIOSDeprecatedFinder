@@ -97,6 +97,8 @@ SMBv1 est une version obsolete et dangereuse du protocole SMB:
 - **DOIT ETRE DESACTIVE sur tous les systemes**
 
 
+# 🚀 PowerShell (Administrateur)
+
 ## Interpretation des resultats
 
 ### SMBv1 Detecte: OUI - CRITIQUE
@@ -113,8 +115,6 @@ Le systeme est probablement securise, mais verifier:
 - Que SMB2/SMB3 est bien utilise si SMB est necessaire
 - Que NetBIOS n'est pas expose inutilement
 
-
-# 🚀 PowerShell (Administrateur)
 
 ## Commandes de remediation
 
@@ -232,6 +232,14 @@ Outil developpe par Ayi NEDJIMI dans le cadre de la suite WinToolsSuite.
 
 Pour toute question ou suggestion, consulter la documentation de WinToolsSuite.
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 ---
 
