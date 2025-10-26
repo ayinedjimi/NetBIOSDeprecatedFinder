@@ -69,6 +69,8 @@ cl.exe /EHsc /W4 /O2 /D UNICODE /D _UNICODE ^
 | **Notes** | Observations et details techniques |
 
 
+# 🚀 PowerShell (Administrateur)
+
 ## Format de plage IP
 
 La plage IP doit etre au format: `IP_DEBUT-IP_FIN`
@@ -78,8 +80,6 @@ Exemples:
 - `10.0.0.1-10.0.0.50` : Sous-ensemble d'un reseau
 - `172.16.1.100-172.16.1.200` : Plage specifique
 
-
-# 🚀 PowerShell (Administrateur)
 
 ## Protocoles detectes
 
@@ -232,6 +232,14 @@ Outil developpe par Ayi NEDJIMI dans le cadre de la suite WinToolsSuite.
 
 Pour toute question ou suggestion, consulter la documentation de WinToolsSuite.
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
