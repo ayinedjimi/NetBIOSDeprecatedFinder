@@ -59,6 +59,8 @@ cl.exe /EHsc /W4 /O2 /D UNICODE /D _UNICODE ^
 7. Cliquer sur "Exporter CSV" pour sauvegarder les resultats
 
 
+# 🚀 PowerShell (Administrateur)
+
 ## Colonnes du ListView
 
 | Colonne | Description |
@@ -68,8 +70,6 @@ cl.exe /EHsc /W4 /O2 /D UNICODE /D _UNICODE ^
 | **SMBv1 Detecte** | OUI - CRITIQUE si SMBv1 actif, Non sinon |
 | **Notes** | Observations et details techniques |
 
-
-# 🚀 PowerShell (Administrateur)
 
 ## Format de plage IP
 
@@ -232,6 +232,14 @@ Outil developpe par Ayi NEDJIMI dans le cadre de la suite WinToolsSuite.
 
 Pour toute question ou suggestion, consulter la documentation de WinToolsSuite.
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
